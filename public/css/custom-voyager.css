@@ -1,0 +1,9 @@
+.btn-primary {
+    background-color: #2A9D8F !important;
+}
+.btn-primary:hover {
+    background-color: #248579 !important;
+}
+.site-footer-right {
+    display: none !important;
+}

@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Home",
+        "link": "/"
+    },
+    {
+        "name": "About",
+        "link": "/about"
+    },
+    {
+        "name": "Events",
+        "link": "/events"
+    },
+    {
+        "name": "Focus Areas",
+        "link": "/focus-areas"
+    },
+    {
+        "name": "News",
+        "link": "/news"
+    },
+    {
+        "name": "Contact Us",
+        "link": "/contact"
+    }
+]
